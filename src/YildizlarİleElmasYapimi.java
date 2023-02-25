@@ -1,12 +1,6 @@
-# Yildizlar-ile-Elmas-Yapimi
-Java Yıldızlar ile Elmas Yapımı
-
-www.patika.dev
-
 import java.util.Scanner;
 
 public class Main {
-    
     public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
